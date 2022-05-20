@@ -22,7 +22,7 @@ Registration Form.
 --->> HTML
 --->> CSS
 --->> Javascript
---->> Python
+--->> Java
 --->> C/C++
 --->> Graphics Designing
 --->> Video Editing
